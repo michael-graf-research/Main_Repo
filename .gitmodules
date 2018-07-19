@@ -1,0 +1,3 @@
+[submodule "sub"]
+	path = sub
+	url = git@github.com:michael-graf-research/sub_module_repo.git
