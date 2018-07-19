@@ -1,3 +1,6 @@
 [submodule "sub"]
 	path = sub
 	url = git@github.com:michael-graf-research/sub_module_repo.git
+[submodule "submodule_2"]
+	path = submodule_2
+	url = https://github.com/michael-graf-research/submodule_2.git
